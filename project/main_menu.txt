@@ -1,0 +1,6 @@
+Welcome to Hotel Management System!!!!!
+Please Select any Option Below. The following price are Only Valid for One Day of stay!
+1.Luxury Room--------------------10000
+2.Elite Room---------------------15000
+3.Economy Room-------------------36000
+4.Basic Room---------------------25000
